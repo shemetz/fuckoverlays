@@ -1,7 +1,8 @@
-var fucker = null
+let fucker = null
 document.addEventListener('mousedown', function (e) {
-  if (e.button == 2) { fucker = e.target }
+  if (e.button === 2) { fucker = e.target }
 })
+//noinspection JSDeprecatedSymbols it's not the same
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
   try { fucker.parentElement.removeChild(fucker) } catch (lmao) {/*as if i care*/}
 })
