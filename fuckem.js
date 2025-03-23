@@ -1,6 +1,6 @@
 let fucker = null
-document.addEventListener('mousedown', function (e) {
-  if (e.button === 2) { fucker = e.target }
+document.addEventListener('contextmenu', function (e) {
+  fucker = e.target
 })
 //noinspection JSDeprecatedSymbols it's not the same
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
