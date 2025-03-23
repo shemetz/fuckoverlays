@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "f*ck overlays v3",
-  "author": "Mark Muego",
-  "description": "adds a context menu to delete overlays that prevent you from viewing a page",
+  "name": "F*ck overlays v3",
+  "author": "Mark Muego + Shemetz",
+  "description": "Adds a context menu to delete annoying overlays that prevent you from viewing a page",
   "version": "3.0.0",
   "icons": {
     "16": "icon16.png",
