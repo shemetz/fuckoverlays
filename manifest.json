@@ -22,9 +22,6 @@
     }
   ],
   "background": {
-    "persistent": true,
-    "scripts": [
-      "fuckoverlaysbg.js"
-    ]
+    "service_worker": "fuckoverlays_sw.js"
   }
 }
