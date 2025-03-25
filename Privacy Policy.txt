@@ -1,0 +1,19 @@
+F*ck Overlays is a piece of code that runs inside your browser whenever you click on things, so that you can choose to
+temporarily remove them from your screen.  That's it.
+
+To make this work, this extension listens to right-click events on the page;  when you right-click a page element (e.g.
+a login popup), a reference to that element is temporarily stored in your browser's memory, so that the extension can
+hide it from view if you press the "F*ck it" context menu button.  That element reference is not kept in memory beyond
+that point, nor is it sent anywhere else.
+
+User data is not collected, not stored, and not shared.  Cookies are not used.  Your location will not be tracked.
+The websites you visit will not be logged.  Your passwords will not be stolen.  Your banking account will not be hacked.
+Your true name will not be revealed.  Your internet ramblings will not be used to train AI models.  No ads will be
+targeted at you.  No one will know if you f*ck things other than annoying website overlays.  Your secrets are safe.
+
+(This list is limited to actions not taken by this extensions;  other extensions, websites, the browser, or anyone
+looking behind your back are still quite capable of intruding upon your privacy.)
+
+[Unlike XScreenSaver](https://www.jwz.org/xscreensaver/google.html), the F*ck Overlays privacy policy does not list
+every single thing it doesn't do, because that list is arbitrarily long.  This privacy policy file is required to
+publicly share the extension on the web store, and that's the only reason it exists.  Thanks for reading it anyway.
