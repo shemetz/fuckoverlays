@@ -1,3 +1,6 @@
+## [Install through the Chrome Web Store](https://chromewebstore.google.com/detail/fck-overlays-v3/ekigogeljclgoblmklfnnadfoflgfdpm)
+
+
 This is a fork of https://github.com/kyrofox/fuckoverlays, updated to be compatible with the Google
 Chrome [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3) changes.
 
